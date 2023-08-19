@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    scroll-behavior: smooth;
 }
 .nav-section {
     background-color: black;
@@ -28,7 +29,6 @@
 .text-decor {
     color: white;
     text-decoration: none;
-    scroll-behavior: smooth;
 }
 .nav-header:hover, #btn-register:hover, .text-decor:hover {
     color: rgb(60, 139, 230);
@@ -48,6 +48,7 @@
 .books-table, td, th {
     border: 1px solid gray;
     border-collapse: collapse;
+    line-height: 30px;
     padding: 5px;
 }
 #register-card {
@@ -69,7 +70,4 @@ input {
     background-color: black;
     color: white;
     border: none;
-}
-a {
-    line-height: 30px;
 }
