@@ -53,6 +53,7 @@
 }
 #register-card {
     padding: 15px;
+    margin-bottom: 50px;
     width: 670px;
     border-radius: 10px;
     box-shadow: 0 0 5px grey;
